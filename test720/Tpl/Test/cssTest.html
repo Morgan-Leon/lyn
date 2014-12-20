@@ -1,0 +1,89 @@
+<!doctype html>
+<!-- 新 Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="__BSCSS__/bootstrap.css">
+
+<!-- 可选的Bootstrap主题文件（一般不用引入） -->
+<link rel="stylesheet" href="__BSCSS__/bootstrap-theme.min.css">
+
+<!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+<script src="__JS__/jquery-1.9.0.min.js"></script>
+
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="__BSJS__/bootstrap.min.js"></script>
+<html>
+<head>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<meta name="author" content=""/>
+
+<meta http-equiv="Content - Type" content="text/html";charset="utf-8">
+
+    
+<title>cssTest</title>
+<style>
+    .first-div{
+	border: 1px solid red;
+    }
+    .second-div{
+	border: 1px solid green;
+    }
+    div{
+	margin: 10px 10px;
+    }
+    input{
+	margin: 5px 10px;
+    }
+</style>
+<script>
+    window.onload=function(){
+	var select = document.getElementById("select");
+	var span=document.getElementsByTagName("span")[0];
+	select.onkeyup=function(){
+	    if (select.value=="") {
+		return;
+		//code
+	    }
+	    for(var i=0; i<document.styleSheets[1].cssRules.lenth;i++){
+		document.styleSheets[1].deleteRule(i);
+	    }
+	    var rule=select.value+span.innerHTML;
+	    document.styleSheets[1].insertRule(rule,0);
+	}
+    }
+</script>
+
+</head>
+
+<body >
+    
+    <input type="text" id="select">
+	<span>
+	{
+	    background: red;
+	}
+	</span>
+    <div class="first-div" >
+	<div class="first-one">
+	    first-one
+	</div>
+	    <div class="first-two">
+	    first-two
+	</div>
+	<div class="first-three">
+	    first-one
+	</div>
+    </div>
+    <div class="second-div" >
+	<div class="second-one">
+	    second-one
+	</div>
+	    <div class="second-two">
+	    second-two
+	</div>
+	<div class="second-three">
+	    second-three
+	</div>
+    </div>
+    
+</body>
+</html>

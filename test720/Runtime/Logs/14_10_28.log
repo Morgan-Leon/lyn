@@ -1,0 +1,499 @@
+[ 2014-10-28T17:51:14+08:00 ] 127.0.0.1 /think/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.115732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.116395s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.160395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.160851s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\wamp\www\think\ThinkPHP3.1.3\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\wamp\www\think\ThinkPHP3.1.3\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.092503s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.068029s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.049379s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.043932s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.255569s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.131055s ]
+INFO: [ view_end ] --END-- [ RunTime:0.131406s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.350166s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.455988s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000515s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000270s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000057s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000477s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.551156s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000214s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.421703s ]
+
+[ 2014-10-28T17:52:10+08:00 ] 127.0.0.1 /think/index.php/Utility-bar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.027324s ]
+INFO: [ route_check ] --END-- [ RunTime:0.027798s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002564s ]
+NOTIC: [8] Undefined variable: group F:\wamp\www\think\ThinkPHP3.1.3\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:Utility-bar
+
+[ 2014-10-28T17:54:57+08:00 ] 127.0.0.1 /think/index.php/Utility-bar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003625s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004393s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002998s ]
+NOTIC: [8] Undefined variable: group F:\wamp\www\think\ThinkPHP3.1.3\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:Utility-bar
+
+[ 2014-10-28T17:55:26+08:00 ] 127.0.0.1 /think/index.php/Utility-bar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003524s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003969s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002503s ]
+NOTIC: [8] Undefined variable: group F:\wamp\www\think\ThinkPHP3.1.3\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:Utility-bar
+
+[ 2014-10-28T17:55:34+08:00 ] 127.0.0.1 /think/index.php/Utility_bar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003141s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003538s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002551s ]
+ERR: 无法加载模块:Utility_bar
+
+[ 2014-10-28T17:55:43+08:00 ] 127.0.0.1 /think/index.php/Utility_bar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003178s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003576s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002384s ]
+ERR: 无法加载模块:Utility_bar
+
+[ 2014-10-28T17:55:44+08:00 ] 127.0.0.1 /think/index.php/Utility_bar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002325s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002738s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002198s ]
+ERR: 无法加载模块:Utility_bar
+
+[ 2014-10-28T17:55:56+08:00 ] 127.0.0.1 /think/index.php/Utility_bar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002618s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003011s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004187s ]
+ERR: 无法加载模块:Utility_bar
+
+[ 2014-10-28T17:56:03+08:00 ] 127.0.0.1 /think/index.php/Utility_bar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002561s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003029s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002154s ]
+ERR: 无法加载模块:Utility_bar
+
+[ 2014-10-28T17:56:08+08:00 ] 127.0.0.1 /think/index.php/Utility_bar/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002469s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002867s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002326s ]
+ERR: 无法加载模块:Utility_bar
+
+[ 2014-10-28T18:02:13+08:00 ] 127.0.0.1 /think/index.php/Utility_bar/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003491s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003916s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002705s ]
+ERR: 无法加载模块:Utility_bar
+
+[ 2014-10-28T18:02:43+08:00 ] 127.0.0.1 /think/index.php/Utility_bar/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002127s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002607s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001782s ]
+ERR: 无法加载模块:Utility_bar
+
+[ 2014-10-28T18:03:01+08:00 ] 127.0.0.1 /think/index.php/Utility_bar/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002544s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003003s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002232s ]
+ERR: 无法加载模块:Utility_bar
+
+[ 2014-10-28T18:04:08+08:00 ] 127.0.0.1 /think/index.php/Utility_bar/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003409s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003846s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004172s ]
+ERR: 无法加载模块:Utility_bar
+
+[ 2014-10-28T18:04:17+08:00 ] 127.0.0.1 /think/index.php/Utilitybar/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003126s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003530s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002362s ]
+ERR: 无法加载模块:Utilitybar
+
+[ 2014-10-28T18:05:26+08:00 ] 127.0.0.1 /think/index.php/Utilitybar/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002563s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002968s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002190s ]
+ERR: 无法加载模块:Utilitybar
+
+[ 2014-10-28T18:05:27+08:00 ] 127.0.0.1 /think/index.php/Utilitybar/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002366s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002768s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002109s ]
+ERR: 无法加载模块:Utilitybar
+
+[ 2014-10-28T18:05:34+08:00 ] 127.0.0.1 /think/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002611s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003011s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002134s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003915s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\wamp\www\think\ThinkPHP3.1.3\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\wamp\www\think\ThinkPHP3.1.3\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001852s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001613s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001162s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001973s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007515s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002340s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002675s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033406s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.011901s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000634s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000759s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000078s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.038183s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000268s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.038557s ]
+
+[ 2014-10-28T18:05:41+08:00 ] 127.0.0.1 /think/index.php/Resume/resume
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003262s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003701s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002599s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046029s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002127s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002080s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001400s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009268s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002964s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003358s ]
+
+[ 2014-10-28T18:06:01+08:00 ] 127.0.0.1 /think/index.php/Utilitybar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005178s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005612s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002617s ]
+ERR: 无法加载模块:Utilitybar
+
+[ 2014-10-28T18:08:33+08:00 ] 127.0.0.1 /think/index.php/Test/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003057s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003464s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002573s ]
+
+[ 2014-10-28T18:09:09+08:00 ] 127.0.0.1 /think/index.php/Test/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002898s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003291s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002694s ]
+
+[ 2014-10-28T18:09:40+08:00 ] 127.0.0.1 /think/index.php/Test/cssTest
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003006s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003413s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002871s ]
+
+[ 2014-10-28T18:09:51+08:00 ] 127.0.0.1 /think/index.php/Test/cssTest
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002848s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003263s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002334s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061839s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002361s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001939s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001169s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001874s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008675s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004486s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005175s ]
+
+[ 2014-10-28T18:09:58+08:00 ] 127.0.0.1 /think/index.php/Test/utilityBar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002898s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003326s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002686s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.136818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.137233s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003954s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004061s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001336s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012689s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002243s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002587s ]
+
+[ 2014-10-28T18:14:50+08:00 ] 127.0.0.1 /think/index.php/Utilitybar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003137s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003569s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003662s ]
+ERR: 无法加载模块:Utilitybar
+
+[ 2014-10-28T18:44:21+08:00 ] 127.0.0.1 /think/index.php/Utilitybar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003405s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003895s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002468s ]
+ERR: 无法加载模块:Utilitybar
+
+[ 2014-10-28T18:44:22+08:00 ] 127.0.0.1 /think/index.php/Utilitybar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002447s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002847s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002341s ]
+ERR: 无法加载模块:Utilitybar
+
+[ 2014-10-28T18:44:23+08:00 ] 127.0.0.1 /think/index.php/Utilitybar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002417s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002803s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002387s ]
+ERR: 无法加载模块:Utilitybar
+
+[ 2014-10-28T18:44:23+08:00 ] 127.0.0.1 /think/index.php/Utilitybar/utility_bar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002472s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002891s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002142s ]
+ERR: 无法加载模块:Utilitybar
+
+[ 2014-10-28T18:48:28+08:00 ] 127.0.0.1 /think/index.php/Test/utilityBar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003107s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003526s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002712s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.126875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127279s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003843s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002387s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001276s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011101s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002321s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002678s ]
+
+[ 2014-10-28T20:19:47+08:00 ] 127.0.0.1 /think/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004705s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008205s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\wamp\www\think\ThinkPHP3.1.3\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\wamp\www\think\ThinkPHP3.1.3\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.002841s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001725s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001211s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010159s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002312s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002684s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.034087s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.014761s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000649s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000577s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000137s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000926s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.039000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000269s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.040174s ]
+
+[ 2014-10-28T20:21:55+08:00 ] 127.0.0.1 /think/index.php/Test/utilityBar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003246s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003680s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002669s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.116648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.117012s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003033s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001527s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000990s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008451s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001892s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002176s ]
+
+[ 2014-10-28T20:28:21+08:00 ] 127.0.0.1 /think/index.php/Test/utilityBar
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003491s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003955s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003084s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.118030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118524s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003177s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001568s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000995s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001901s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008462s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001802s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002075s ]
+
+[ 2014-10-28T20:44:54+08:00 ] 127.0.0.1 /think/index.php/Test/jumBotron
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002635s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002988s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002063s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027334s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027778s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002049s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002055s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001710s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009479s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002128s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002468s ]
+
+[ 2014-10-28T20:44:54+08:00 ] 127.0.0.1 /think/index.php/Test/jumbotron.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005271s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006129s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002946s ]
+ERR: 非法操作:jumbotron.css
+
+[ 2014-10-28T20:49:13+08:00 ] 127.0.0.1 /think/index.php/Test/jumBotron
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003669s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004159s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003107s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034245s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002083s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002040s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001539s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009551s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002738s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003203s ]
+
+[ 2014-10-28T20:49:13+08:00 ] 127.0.0.1 /think/index.php/Test/jumbotron.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002499s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002973s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002249s ]
+ERR: 非法操作:jumbotron.css
+

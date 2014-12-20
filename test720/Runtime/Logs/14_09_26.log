@@ -1,0 +1,160 @@
+[ 2014-09-26T14:19:55+08:00 ] 127.0.0.1 /think/index.php/Resume/resume
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003969s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004537s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002601s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028738s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001768s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001882s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008075s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002828s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003199s ]
+
+[ 2014-09-26T14:20:01+08:00 ] 127.0.0.1 /think/index.php/Resume/resume
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003970s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004520s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002350s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029265s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002083s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001473s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000988s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002477s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008246s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002854s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003257s ]
+
+[ 2014-09-26T14:21:18+08:00 ] 127.0.0.1 /think/index.php/Resume/resume
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002966s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003434s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002459s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026211s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001793s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001688s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001251s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001989s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007750s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002257s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002598s ]
+
+[ 2014-09-26T14:22:01+08:00 ] 127.0.0.1 /think/index.php/Resume/resume
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003131s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003584s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003306s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032599s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033010s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002028s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001948s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001289s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009774s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004670s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005063s ]
+
+[ 2014-09-26T16:28:28+08:00 ] 127.0.0.1 /think/index.php/Resume/resume
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002564s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002916s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002145s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021528s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001375s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002097s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001037s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006958s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001943s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002422s ]
+
+[ 2014-09-26T16:28:48+08:00 ] 127.0.0.1 /think/index.php/Resume/resume
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001822s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002148s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001449s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015573s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000970s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000948s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000692s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004702s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001534s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001744s ]
+
+[ 2014-09-26T16:29:24+08:00 ] 127.0.0.1 /think/index.php/Resume/resume
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005475s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005904s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002875s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038950s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039373s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002189s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001923s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001442s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002347s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009124s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003087s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003457s ]
+
+[ 2014-09-26T16:48:05+08:00 ] 127.0.0.1 /think/index.php/Resume/resume
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003364s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004170s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003184s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.037567s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038788s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002228s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002021s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001600s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009937s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002509s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002864s ]
+
